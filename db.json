@@ -1,0 +1,75 @@
+{
+    "products" : [
+        {
+            "id"    : 1,
+            "name"   : "Alo",
+            "price"  : 20,
+            "photo"  : "https://media.istockphoto.com/photos/three-potatoes-picture-id157430678?b=1&k=20&m=157430678&s=170667a&w=0&h=EY1tYKyL7VK84Xrj3vXRQee29NocctYXWBkdGdDQIow=",
+            "desciption" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio sed assumenda ut adipisci et nostrum. Magni ullam atque veritatis a."          
+        },
+        {
+            "id"    : 2,
+            "name"   : "Begun",
+            "price"  : 48,
+            "photo"  : "https://chaldn.com/_mpimage/kalo-gol-begun-round-brinjals-black-35-gm-700-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D7893&q=low&v=1",
+            "desciption" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio sed assumenda ut adipisci et nostrum. Magni ullam atque veritatis a."
+        },
+        {
+            "id"    : 3,
+            "name"   : "Potol",
+            "price"  : 45,
+            "photo"  : "https://images.othoba.com/images/thumbs/0055945_potol-1kg.jpeg",
+            "desciption" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio sed assumenda ut adipisci et nostrum. Magni ullam atque veritatis a."
+        },
+        {
+            "id"    : 4,
+            "name"   : "Lao",
+            "price"  : 35,
+            "photo"  : "https://www.sharebusiness24.com/media/imgAll/2016January/ag-luy20160922141415.jpg",
+            "desciption" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio sed assumenda ut adipisci et nostrum. Magni ullam atque veritatis a."
+        },
+        {
+            "id"    : 5,
+            "name"   : "Rosun",
+            "price"  : 26,
+            "photo"  : "https://www.kalerkantho.com/assets/news_images/2015/11/15/image_290929.04.jpg",
+            "desciption" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio sed assumenda ut adipisci et nostrum. Magni ullam atque veritatis a."
+        },
+        {
+            "id"    : 6,
+            "name"   : "Piaj",
+            "price"  : 60,
+            "photo"  : "https://www.kalerkantho.com/assets/news_images/2020/10/23/231358kalerkantho-ed-2.jpg",
+            "desciption" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio sed assumenda ut adipisci et nostrum. Magni ullam atque veritatis a."
+        },
+        {
+            "id"    : 7,
+            "name"   : "Kumra",
+            "price"  : 45,
+            "photo"  : "https://cdn.jagonews24.com/media/imgAllNew/BG/2018June/machi-cover-20180630141434.jpg",
+            "desciption" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio sed assumenda ut adipisci et nostrum. Magni ullam atque veritatis a."
+        },
+        {
+            "id"    : 8,
+            "name"   : "Adaa",
+            "price"  : 35,
+            "photo"  : "https://media.gettyimages.com/photos/ginger-root-isolated-on-white-background-picture-id154947950?s=612x612",
+            "desciption" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio sed assumenda ut adipisci et nostrum. Magni ullam atque veritatis a."
+        },
+        {
+            "id"    : 9,
+            "name"   : "Kochu",
+            "price"  : 120,
+            "photo"  : "https://assets.telegraphindia.com/abp/2021/Aug/1630144454_new-project-2021-08-28t152117-095.jpg",
+            "desciption" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio sed assumenda ut adipisci et nostrum. Magni ullam atque veritatis a."
+        },
+        {
+            "id"    : 10,
+            "name"   : "Dim",
+            "price"  : 40,
+            "photo"  : "https://www.banglanews24.com/public/uploads/2017/05/18/eggs-bg20170518154008.jpg",
+            "desciption" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio sed assumenda ut adipisci et nostrum. Magni ullam atque veritatis a."
+        }
+        
+    ]
+}
